@@ -1,0 +1,12 @@
+Id,firstName,lastName,salary,managerId
+123,Jack,Kallis,60000,
+124,Shane,Whatson,45000,123
+125,David,Warner,47000,123
+300,Alice,Hasacat,50000,124
+305,Virat,Kholi,34000,300
+400,MS,Dhoni,95000,123
+401,Brock,Lesnar,35000,400
+402,Big,show,35000,400
+306,Jasprith,Bumrha,32000,305
+307,Ravindra,Jadeja,28000,306
+308,Shubhman,Gill,26000,307

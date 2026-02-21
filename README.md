@@ -10,9 +10,9 @@ Java 17
    Example:C:\Users\JohnCena\Downloads\emp.csv
 
 3. If any of the following conditions occur:
-- The path is invalid
-- The file contains no records
-- The file cannot be read
+   - The path is invalid
+   - The file contains no records
+   - The file cannot be read
 
 The application will automatically use the default employees file located at: resources\employees.csv
 

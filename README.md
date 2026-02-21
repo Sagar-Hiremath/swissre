@@ -1,7 +1,20 @@
-Java Version - 17
+## Java Version
+Java 17
 
-Instructons to Run
-1 - Run Main Class
-2 - it will ask file path which contains employees list, please provide absolute file path without double colon. For example -> C:\Users\JohnCena\Downloads\emp.csv
-3 - If path is invalid, or it contains no records or its not able to read a file then it will use default employess file from the resources\employees.csv file
+## Instructions to Run
+
+1. Run the `Main` class.
+
+2. It will ask for the file path which contains the employees list. Please provide the **absolute file path** without double quotes.
+
+   Example:C:\Users\JohnCena\Downloads\emp.csv
+
+3. If any of the following conditions occur:
+- The path is invalid
+- The file contains no records
+- The file cannot be read
+
+The application will automatically use the default employees file located at: resources\employees.csv
+
+
 
